@@ -1,0 +1,2 @@
+# UnityEditor_AddComponentScriptPath
+UnityEditor拡張でパスからC#スクリプトをAddComponentする
