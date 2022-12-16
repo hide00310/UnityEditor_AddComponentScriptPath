@@ -1,2 +1,8 @@
 # UnityEditor_AddComponentScriptPath
 UnityEditor拡張でパスからC#スクリプトをAddComponentする
+
+手順
+
+1. ファイルをダウンロードしてAssetsフォルダに配置
+1. My Window/Add Component Scriptをクリック
+1. CubeゲームオブジェクトにAddComponentScriptPathScriptがAddComponentされる

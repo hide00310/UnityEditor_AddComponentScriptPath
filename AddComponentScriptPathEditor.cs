@@ -16,7 +16,7 @@ public class AddComponentScriptPathEditor : EditorWindow
             if (obj.name == "Cube") Cube = obj;
         }
         // CubeにAddComponentScriptPathScriptコンポーネントを追加
-        AddComponentScript(Cube, "Assets/UdonSharp_AddComponentScriptPath/AddComponentScriptPathScript.cs");
+        AddComponentScript(Cube, "Assets/UnityEditor_AddComponentScriptPath/AddComponentScriptPathScript.cs");
     }
     static MonoBehaviour AddComponentScript(GameObject obj, string path)
     {
